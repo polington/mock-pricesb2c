@@ -1,1 +1,73 @@
-
+[
+    {
+        "c": "SP20230408SOKJED",
+        "f": "RED@SP@2023-04-08@4@SOK@JED@",
+        "i": "UQY6",
+        "g": 5,
+        "y": "0",
+        "a": [
+            "RED"
+        ],
+        "p": {
+            "SPC00239IT3011EA@EARLYBKG": [
+                [
+                    "658.00", 
+                    "329.00",
+                    "0.00",
+                    "0.00",
+                    "0.00",
+                    "5", 
+                    "IR1",
+                    "FORFAI(0,1)_MISC_TRF_ALLINC_AIR",
+                    "90.00",
+                    "0",
+                    "PREZZO BASE",
+                    "OBS_TRIOPR#EXP2B#471PNW22;TRF_APTPTHAM#PTAPTHAM;AIR_*", 
+                    [
+                        [
+                            "OBS",
+                            "SC2223ME",
+                            "0",
+                            "48.00", 
+                            "0", 
+                            "0", 
+                            "0", 
+                            "96.00", 
+                            "true" 
+                        ]
+                    ]
+                ]               
+            ], 
+            "SPC00239IT3011EA@EARLYBKG-T": [
+                [
+                    "658.00", 
+                    "329.00",
+                    "0.00",
+                    "0.00",
+                    "0.00",
+                    "5", 
+                    "IR1",
+                    "FORFAI(0,1)_MISC_TRF_ALLINC_AIR",
+                    "90.00",
+                    "0",
+                    "PREZZO BASE",
+                    "OBS_TRIOPR#EXP2B#471PNW22;TRF_APTPTHAM#PTAPTHAM;AIR_*", 
+                    [
+                        [
+                            "OBS",
+                            "SC2223ME",
+                            "0",
+                            "48.00", 
+                            "0", 
+                            "0", 
+                            "0", 
+                            "96.00", 
+                            "true" 
+                        ]
+                    ]
+                ]               
+            ]
+           
+        }
+    }
+]
